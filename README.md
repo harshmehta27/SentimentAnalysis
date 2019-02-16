@@ -2,6 +2,9 @@
 
 The Sentiment Analysis of user feedbacks on airlines was made using NLP and ML Algorithms
 
+The project was carried out in Python
+Libraries Used: numpy, pandas, sklearn, nltk, scipy 
+
 Natural Language Processing was done using Python's NLTK library and the following steps were executed:
 - Tokenization of Tweets
 - Case Conversation of Tokens
