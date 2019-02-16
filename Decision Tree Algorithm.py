@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Apr 19 12:30:59 2018
-
-@author: Riddhiman Sherlekar & Harsh Mehta
 """
 
 
@@ -192,39 +190,4 @@ count=0
 for i in range(0,len(labels_test_data)):
     if labels_test_data.iloc[i,0] == labels_of_original.iloc[i,0]:
         count = count + 1
-count
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
+print(count)
